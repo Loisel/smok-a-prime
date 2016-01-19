@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smok-A-Prime</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start">Start Smok-A-Prime</string>
+    <string name="button_stop">Stop Smok-A-Prime</string>
+    <string name="bool_is_active">The program is active</string>
+    <string name="you_smoke">Have a cigarette!</string>
+    <string name="last_prime">Last prime number</string>
+    <string name="preference_file">preferences</string>
+    <string name="startstring">Start. The app reminds you to smoke on each prime number day counted from today.</string>
+    <string name="stopstring">Stop. No more notifications, please. I smoke whenever I want.</string>
+</resources>
