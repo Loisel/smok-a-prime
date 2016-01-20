@@ -4,6 +4,8 @@
     <string name="button_start">Start Smok-A-Prime</string>
     <string name="button_stop">Stop Smok-A-Prime</string>
     <string name="bool_is_active">The program is active</string>
+    <string name="long_starttime">The time the program was started.</string>
+    <string name="quote_file_size">The size of the quotes file.</string>
     <string name="you_smoke">Have a cigarette!</string>
     <string name="last_prime">Last prime number</string>
     <string name="preference_file">preferences</string>
